@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  },
+  "name": "login-signup",
+  "description": "Simple Login and Signup Page with Express.js, MongoDB, and Mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuttumuRohit/AUTH.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuttumuRohit/AUTH/issues"
+  },
+  "homepage": "https://github.com/KuttumuRohit/AUTH#readme"
+}
